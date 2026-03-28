@@ -129,6 +129,46 @@ Interests:
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aranya01238&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF" />
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aranya01238&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Aranya01238&theme=tokyonight&no-frame=true&row=1&column=6" width="95%" />
+
+</div>
+
+---
+
+## 🟩 Contribution Grid
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/00F7FF/Aranya01238" alt="GitHub contribution chart" width="95%" />
+
+</div>
+
+---
+
+## 🧩 3D Tech Design Section
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Robotics+%7C+IoT+%7C+AI;Embedded+Systems+%7C+Automation;3D+Design+%7C+Product+Development;Building+Future+Tech+Projects" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212749695-f7d4c4e2-07b0-4b69-9b1d-7b2f1f0e1d6f.gif" width="350" />
+<img src="https://user-images.githubusercontent.com/74038190/212750337-1d7f2f3e-c42d-4e6f-a10e-0dfc5f8c0b24.gif" width="350" />
+
+</div>
+
+---
+
+## ⚙️ Engineering Mindset
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Problem_Solver-00F7FF?style=for-the-badge&logo=codeforces&logoColor=black" />
+<img src="https://img.shields.io/badge/Innovator-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Team_Leader-1E90FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Tech_Explorer-FF4B2B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Builder-00C853?style=for-the-badge" />
+
 </div>
 
 ---
