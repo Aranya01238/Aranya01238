@@ -4,9 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron\&weight=700\&size=28\&duration=2500\&pause=1000\&color=00F7FF\&center=true\&vCenter=true\&multiline=true\&repeat=true\&width=900\&height=100\&lines=Hey+There%2C+I'm+Aranya+Rath;Co+Lead+%40+IETE+IEM;IoT+Lead+%40+Vikrant+EV;Project+Intern+%40+IIT+KGP+Research+Foundation;Building+Cool+Things+With+Tech)](https://git.io/typing-svg)
 
-<img src="https://img.shields.io/github/followers/your-github-username?style=for-the-badge&logo=github&color=00C2FF&labelColor=1A1B27" />
-<img src="https://img.shields.io/github/stars/your-github-username?style=for-the-badge&logo=github&color=FFD700&labelColor=1A1B27" />
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=blueviolet" />
+<img src="https://img.shields.io/github/followers/Aranya01238?style=for-the-badge&logo=github&color=00C2FF&labelColor=1A1B27" />
+<img src="https://img.shields.io/github/stars/Aranya01238?style=for-the-badge&logo=github&color=FFD700&labelColor=1A1B27" />
+<img src="https://komarev.com/ghpvc/?username=Aranya01238&style=for-the-badge&color=blueviolet" />
 
 </div>
 
@@ -111,13 +111,13 @@ Interests:
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" />
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Aranya01238&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" />
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Aranya01238&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
 
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-github-username&theme=tokyonight" />
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aranya01238&theme=tokyonight" />
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=your-github-username&theme=tokyonight" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=your-github-username&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aranya01238&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aranya01238&theme=tokyonight" />
 
 </div>
 
@@ -137,7 +137,7 @@ Interests:
 
 <div align="center">
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31exampleuserid&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true" />
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=Aranya01238&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true" />
 
 </div>
 
