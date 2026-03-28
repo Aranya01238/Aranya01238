@@ -154,9 +154,9 @@ Interests:
 
 <br><br>
 
-<img src="https://github.com/SP-XD/SP-XD/raw/main/images/dev-working_rounded.gif" width="320" />
-<img src="https://user-images.githubusercontent.com/74038190/216656986-5b5f9d65-2f1d-4f62-bf24-0a6b9b9f2d84.gif" width="320" />
-<img src="https://user-images.githubusercontent.com/74038190/213911167-25cfe8b3-4b1a-4ddb-9bd4-0fdc5b2c24fd.gif" width="320" />
+<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="300" />
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" />
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" />
 
 <br><br>
 
