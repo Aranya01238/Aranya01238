@@ -130,10 +130,9 @@ Interests:
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aranya01238&theme=tokyo-night&hide_border=true" />
 
 <br><br>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aranya01238&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180em" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Aranya01238&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=4&margin-w=15&margin-h=15" height="180em" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aranya01238&layout=compact&theme=tokyonight" height="170" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Aranya01238&theme=discord&no-frame=true&row=1&column=4" height="170" />
 </p>
 </div>
 
