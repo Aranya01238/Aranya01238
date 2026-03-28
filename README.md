@@ -123,31 +123,11 @@ Interests:
 
 ---
 
-## 🐍 Contribution Snake Animation
+## 📈 GitHub Contribution Graph
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
----
-
-## 🎵 Spotify Playing
-
-<div align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=Aranya01238&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true" />
-
-</div>
-
----
-
-## 💡 Random Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aranya01238&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF" />
 
 </div>
 
