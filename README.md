@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Aranya%20Rath&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IoT%20Lead%20%7C%20Robotics%20Enthusiast%20%7C%20Tech%20Innovator&descAlignY=60&descSize=18" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron\&weight=700\&size=28\&duration=2500\&pause=1000\&color=00F7FF\&center=true\&vCenter=true\&multiline=true\&repeat=true\&width=900\&height=100\&lines=Hey+There%2C+I'm+Aranya+Rath;Co+Lead+%40+IETE+IEM;IoT+Lead+%40+Vikrant+EV;Project+Intern+%40+IIT+KGP+Research+Foundation;Building+Cool+Things+With+Tech)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Audiowide\&weight=700\&size=22\&duration=2800\&pause=1200\&color=00F7FF\&center=true\&vCenter=true\&repeat=true\&width=700\&height=120\&lines=Hey+There%2C+I'm+Aranya+Rath;Co+Lead+%40+IETE+IEM;IoT+Lead+%40+Vikrant+EV;Project+Intern+%40+IIT+KGP+Research+Foundation;Building+Cool+Things+With+Tech)](https://git.io/typing-svg)
 
 <img src="https://img.shields.io/github/followers/Aranya01238?style=for-the-badge&logo=github&color=00C2FF&labelColor=1A1B27" />
 <img src="https://img.shields.io/github/stars/Aranya01238?style=for-the-badge&logo=github&color=FFD700&labelColor=1A1B27" />
@@ -150,10 +150,17 @@ Interests:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Robotics+%7C+IoT+%7C+AI;Embedded+Systems+%7C+Automation;3D+Design+%7C+Product+Development;Building+Future+Tech+Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Robotics+%7C+IoT+%7C+AI;Embedded+Systems+%7C+Automation;3D+Design+%7C+Product+Development;Building+Future+Tech+Projects" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212749695-f7d4c4e2-07b0-4b69-9b1d-7b2f1f0e1d6f.gif" width="350" />
-<img src="https://user-images.githubusercontent.com/74038190/212750337-1d7f2f3e-c42d-4e6f-a10e-0dfc5f8c0b24.gif" width="350" />
+<br><br>
+
+<img src="https://github.com/SP-XD/SP-XD/raw/main/images/dev-working_rounded.gif" width="320" />
+<img src="https://user-images.githubusercontent.com/74038190/216656986-5b5f9d65-2f1d-4f62-bf24-0a6b9b9f2d84.gif" width="320" />
+<img src="https://user-images.githubusercontent.com/74038190/213911167-25cfe8b3-4b1a-4ddb-9bd4-0fdc5b2c24fd.gif" width="320" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,python,tensorflow,opencv,git,github,vscode,figma" />
 
 </div>
 
