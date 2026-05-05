@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Aranya%20Rath&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IoT%20Lead%20%7C%20Robotics%20Enthusiast%20%7C%20Tech%20Innovator&descAlignY=60&descSize=18" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Audiowide\&weight=700\&size=22\&duration=2800\&pause=1200\&color=00F7FF\&center=true\&vCenter=true\&repeat=true\&width=700\&height=120\&lines=Hey+There%2C+I'm+Aranya+Rath;Co+Lead+%40+IETE+IEM;IoT+Lead+%40+Vikrant+EV;Project+Intern+%40+IIT+KGP+Research+Foundation;Building+Cool+Things+With+Tech)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Audiowide\&weight=700\&size=22\&duration=2800\&pause=1200\&color=00F7FF\&center=true\&vCenter=true\&repeat=true\&width=700\&height=120\&lines=Hey+There%2C+I'm+Aranya+Rath;Co+Lead+%40+IETE+IEM;Team+Lead+%40+Vikrant+EV;Project+Intern+%40+IIT+KGP+Research+Foundation;Building+Cool+Things+With+Tech)](https://git.io/typing-svg)
 
 <img src="https://img.shields.io/github/followers/Aranya01238?style=for-the-badge&logo=github&color=00C2FF&labelColor=1A1B27" />
 <img src="https://img.shields.io/github/stars/Aranya01238?style=for-the-badge&logo=github&color=FFD700&labelColor=1A1B27" />
