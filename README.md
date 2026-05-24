@@ -34,52 +34,100 @@
 <br/>
 
 <!-- ██████████████████████████████████████████████ -->
+<!-- ░░░░░░░░░  TROPHIES — SECTION 2  ░░░░░░░░░░░░ -->
+<!-- ██████████████████████████████████████████████ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0f3460,100:0d1117&height=3"/>
+
+## 🏆 Hall of Fame — GitHub Trophies
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Aranya01238&theme=tokyonight&no-frame=false&no-bg=true&margin-w=8&margin-h=8&row=2&column=4"/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0f3460,100:0d1117&height=3"/>
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<br/>
+
+<!-- ██████████████████████████████████████████████ -->
 <!-- ░░░░░░░░░░  ABOUT ME SECTION  ░░░░░░░░░░░░░░░ -->
 <!-- ██████████████████████████████████████████████ -->
 
 <div align="center">
-<h2>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"/>
-  &nbsp;&nbsp;<span style="color:#00d9ff">SYSTEM PROFILE</span>&nbsp;&nbsp;
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"/>
-</h2>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&height=90&color=0:0d1117,40:0f3460,100:00d9ff&text=◈%20%20SYSTEM%20PROFILE%20%20◈&fontColor=00d9ff&fontSize=32&animation=blinking&fontAlignY=55"/>
 </div>
 
-```yaml
-╔══════════════════════════════════════════════════════════════╗
-║                    ◈  IDENTITY MODULE  ◈                     ║
-╠══════════════════════════════════════════════════════════════╣
-║  Name        : Aranya Rath                                   ║
-║  Codename    : Aranya01238                                   ║
-╠══════════════════════════════════════════════════════════════╣
-║                  ◈  EDUCATION MATRIX  ◈                      ║
-╠══════════════════════════════════════════════════════════════╣
-║  Degree      : B.Tech                                        ║
-║  Department  : CSE — IoT | Cyber Security | Blockchain       ║
-║  College     : Institute of Engineering & Management         ║
-╠══════════════════════════════════════════════════════════════╣
-║                   ◈  ACTIVE MISSIONS  ◈                      ║
-╠══════════════════════════════════════════════════════════════╣
-║  [◈] Technical Lead  →  Microsoft Student Society UEMK       ║
-║  [◈] Event Head      →  IGNITIA 2K26                         ║
-║  [◈] Co Lead         →  IETE IEM                             ║
-║  [◈] IoT Lead        →  Vikrant EV                           ║
-║  [◈] Project Intern  →  IIT KGP Research Foundation          ║
-╠══════════════════════════════════════════════════════════════╣
-║                  ◈  NEURAL INTERESTS  ◈                      ║
-╠══════════════════════════════════════════════════════════════╣
-║  Robotics  |  AI  |  IoT  |  Embedded Systems                ║
-║  Computer Vision  |  EV  |  Blockchain  |  R&D               ║
-╠══════════════════════════════════════════════════════════════╣
-║               ◈  CURRENT BUILD STATUS  ◈                     ║
-╠══════════════════════════════════════════════════════════════╣
-║  >> Robotics Projects         [▓▓▓▓▓▓▓▓░░]  80%             ║
-║  >> IoT Smart Solutions       [▓▓▓▓▓▓▓▓▓░]  90%             ║
-║  >> Computer Vision Apps      [▓▓▓▓▓▓▓░░░]  70%             ║
-║  >> Edge AI & Deep Learning   [▓▓▓▓▓░░░░░]  50% LEARNING    ║
-║  >> EV Technologies           [▓▓▓▓▓▓▓▓░░]  80%             ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<br/>
+
+<div align="center">
+
+<!-- IDENTITY CARDS ROW -->
+<img src="https://img.shields.io/badge/◈%20NAME-Aranya%20Rath-00d9ff?style=for-the-badge&labelColor=0d1117&color=00d9ff"/>
+<img src="https://img.shields.io/badge/◈%20HANDLE-Aranya01238-ff6ec7?style=for-the-badge&labelColor=0d1117&color=ff6ec7"/>
+<img src="https://img.shields.io/badge/◈%20DEGREE-B.Tech%20CSE-8a2be2?style=for-the-badge&labelColor=0d1117&color=8a2be2"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/◈%20COLLEGE-IEM%20Kolkata-1e90ff?style=for-the-badge&labelColor=0d1117&color=1e90ff"/>
+<img src="https://img.shields.io/badge/◈%20SPEC-IoT%20|%20CyberSec%20|%20Blockchain-f97316?style=for-the-badge&labelColor=0d1117&color=f97316"/>
+
+</div>
+
+<br/>
+
+<!-- ACTIVE MISSIONS VISUAL TABLE -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0f2040,100:0d1117&height=3"/>
+
+### ⚡ ACTIVE MISSIONS
+
+| &nbsp;🔴 LIVE&nbsp; | &nbsp;⚙️ ROLE&nbsp; | &nbsp;🏢 ORGANIZATION&nbsp; | &nbsp;🏷️ BADGE&nbsp; |
+|:---:|:---|:---|:---:|
+| 🟢 | 💼 **Technical Lead** | Microsoft Student Society UEMK | ![MSS](https://img.shields.io/badge/MSS-UEMK-00d9ff?style=flat-square&labelColor=0d1117) |
+| 🟢 | 🎯 **Event Head** | IGNITIA 2K26 | ![IGNITIA](https://img.shields.io/badge/IGNITIA-2K26-ff6ec7?style=flat-square&labelColor=0d1117) |
+| 🟢 | 🌐 **Co Lead** | IETE IEM | ![IETE](https://img.shields.io/badge/IETE-IEM-8a2be2?style=flat-square&labelColor=0d1117) |
+| 🟢 | ⚡ **IoT Lead** | Vikrant EV | ![Vikrant](https://img.shields.io/badge/Vikrant-EV-00c853?style=flat-square&labelColor=0d1117) |
+| 🟢 | 🔬 **Project Intern** | IIT KGP Research Foundation | ![IITK](https://img.shields.io/badge/IIT-KGP-f97316?style=flat-square&labelColor=0d1117) |
+
+</div>
+
+<br/>
+
+<!-- BUILD STATUS CARDS -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0f2040,100:0d1117&height=3"/>
+
+### 🛠️ CURRENT BUILD STATUS
+
+<br/>
+
+<img src="https://img.shields.io/badge/🤖%20Robotics%20Projects-80%25-00d9ff?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/🌐%20IoT%20Solutions-90%25-00c853?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/👁️%20Computer%20Vision-70%25-8a2be2?style=for-the-badge&labelColor=0d1117"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/🔬%20Edge%20AI%20%26%20Deep%20Learning-50%25%20LEARNING-ff6ec7?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/⚡%20EV%20Technologies-80%25-f97316?style=for-the-badge&labelColor=0d1117"/>
+
+<br/><br/>
+
+<!-- ANIMATED SKILL BANNER -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=2000&pause=600&color=00D9FF&center=true&vCenter=true&width=800&lines=◈+Robotics+%7C+AI+%7C+IoT+%7C+Embedded+Systems;◈+Computer+Vision+%7C+EV+Tech+%7C+Blockchain+%7C+R%26D;◈+Building+the+future%2C+one+system+at+a+time...)](https://git.io/typing-svg)
+
+</div>
 
 <br/>
 
@@ -355,19 +403,7 @@
 
 <br/>
 
-<!-- ██████████████████████████████████████████████ -->
-<!-- ░░░░░░░░░  GITHUB TROPHIES  ░░░░░░░░░░░░░░░░░ -->
-<!-- ██████████████████████████████████████████████ -->
-
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Aranya01238&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"/>
-
-</div>
+<!-- Trophies moved to Section 2 — see top of file -->
 
 <br/>
 
